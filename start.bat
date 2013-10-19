@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=com.liferay.maven.archetypes -DarchetypeArtifactId=liferay-servicebuilder-archetype  -DarchetypeVersion=6.1.30 -DgroupId=tld.dmt  -DartifactId=mproject -Dversion=1.0-SNAPSHOT

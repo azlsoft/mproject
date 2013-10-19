@@ -1,0 +1,11 @@
+  <?xml version="1.0" encoding="UTF-8" ?> 
+  <!DOCTYPE service-builder (View Source for full doctype...)> 
+- <service-builder package-path="tld.dmt">
+  <author>user</author> 
+  <namespace>DMT</namespace> 
+- <entity name="SourcingSetup" local-service="true" remote-service="false">
+  <column name="id" type="long" primary="true" /> 
+  <column name="dealName" type="String" /> 
+  <column name="referenceId" type="long" /> 
+  </entity>
+  </service-builder>
